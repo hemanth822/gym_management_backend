@@ -205,5 +205,4 @@
       "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b"
     }
   ],
-  "$schema": "./node_modules/json-server/schema.json"
 }
